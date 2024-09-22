@@ -1,4 +1,3 @@
-
 package entrega_1;
 
 import java.io.FileWriter;
@@ -114,3 +113,4 @@ public class GenerateInfoFiles {
         createProductsFile(5);  // Genera 5 productos
     }
 }
+

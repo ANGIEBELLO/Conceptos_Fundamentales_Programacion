@@ -1,5 +1,5 @@
-1;Laptop;2.32
-2;Celular;44.84
-3;Televisor;77.41
-4;Auriculares;73.89
-5;Teclado;39.05
+1;Laptop;67.79
+2;Celular;94.27
+3;Televisor;12.66
+4;Auriculares;76.28
+5;Teclado;37.03

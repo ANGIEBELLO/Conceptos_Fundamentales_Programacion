@@ -1,0 +1,37 @@
+CONCLUSIONES
+Lo aprendido durante el desarrollo del proyecto
+
+     "A través de este proyecto, consolidamos nuestros conocimientos en programación orientada a objetos, utilizando clases para representar empleados, productos y ventas. Aprendimos a manejar colecciones para almacenar grandes cantidades de datos."
+     "El trabajo en equipo fue fundamental. Aprendimos a dividir tareas, a revisar el código de nuestros compañeros y a resolver conflictos de manera constructiva. Esto nos permitió desarrollar un producto de mayor calidad en menos tiempo."
+     "Este proyecto nos demostró la importancia de la documentación. Al documentar el código y el diseño, facilitamos la comprensión del sistema y pudimos realizar cambios de manera más eficiente."
+     "Los conocimientos adquiridos en este proyecto nos abren las puertas a diversas oportunidades laborales, como el desarrollo de sistemas de gestión empresarial o la creación de aplicaciones web para comercios electrónicos."
+
+     Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto.
+
+Desarrollo de Software
+     Sistemas de gestión empresarial (ERP): Se podrá contribuir al desarrollo de módulos relacionados con recursos humanos, inventario o ventas.
+      Aplicaciones web: Crear aplicaciones personalizadas para pequeñas y medianas empresas que requieran gestionar su inventario, clientes y empleados.
+     Aplicaciones móviles: Desarrollar apps para dispositivos móviles que permitan a los empleados acceder a información relevante o realizar tareas desde cualquier lugar.
+Análisis de Datos
+     Business Intelligence: Utilizar los datos recopilados en el proyecto para generar reportes y análisis que ayuden a tomar decisiones estratégicas.
+     Data Mining: Aplicar técnicas de minería de datos para descubrir patrones y tendencias en los datos de ventas y empleados.
+Testing y Calidad de Software
+     Diseño de casos de prueba: Crear pruebas unitarias e integrales para asegurar la calidad del software desarrollado.
+     Automatización de pruebas: Utilizar herramientas de automatización para ejecutar pruebas de manera eficiente.
+Consultoría
+     Asesoramiento técnico: Brindar consultoría a empresas que requieran implementar sistemas de gestión de inventario o recursos humanos.
+     Análisis de requerimientos: Ayudar a las empresas a definir sus necesidades y a diseñar soluciones personalizadas.
+Emprendimiento
+     Desarrollo de productos: Crear nuestra propia aplicación o software basado en las habilidades adquiridas.
+     Startup: Fundar una empresa que ofrezca soluciones de software a pequeñas y medianas empresas.
+
+Las dificultades presentadas durante el desarrollo del proyecto
+
+ Decidir cómo representar de manera eficiente los empleados, productos y ventas.
+ Implementar correctamente las reglas de negocio, como calcular totales, gestionar inventarios, etc.
+ Manejar excepciones y errores de forma adecuada.
+Solución: Utilizar bloques try-catch para capturar excepciones y mostrar mensajes de error claros. 
+Mejorar el rendimiento del código.
+Coordinar el trabajo con otros miembros del equipo y resolver conflictos.
+El proyecto fue un poco más complejo de lo esperado, requiriendo un mayor nivel de abstracción y diseño.
+Falta de experiencia
